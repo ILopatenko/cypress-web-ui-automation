@@ -1,0 +1,23 @@
+{
+  "name": "cypress-web-ui-automation",
+  "version": "1.0.0",
+  "description": "This is a project for UI test automation with Cypress test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILopatenko/cypress-web-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILopatenko/cypress-web-ui-automation/issues"
+  },
+  "homepage": "https://github.com/ILopatenko/cypress-web-ui-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
